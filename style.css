@@ -1,0 +1,15 @@
+
+#boy{
+    position: relative;
+    top: 70px;
+    z-index: 3;
+}
+#ring{
+    position: relative;
+    z-index: 2;
+}
+#water{
+    position: relative;
+    top: -70px;
+    z-index: 1;
+}
