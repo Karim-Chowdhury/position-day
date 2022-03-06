@@ -1,15 +1,22 @@
 
 #boy{
-    position: relative;
-    top: 70px;
+    position: sticky;
+    top: 130px;
     z-index: 3;
 }
 #ring{
-    position: relative;
+    position: sticky;
+    top: 150px;
     z-index: 2;
 }
 #water{
-    position: relative;
-    top: -70px;
+    position: sticky;
+    top: 170px;
     z-index: 1;
+}
+
+.dadavai{
+    width: 200px;
+    height: 1000px;
+    border: 1px dotted red;
 }
